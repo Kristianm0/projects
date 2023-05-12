@@ -1,6 +1,6 @@
 #juego pokemon 
 
-#tarea 
+#tarea - Modificacion
 #- ciclo while 
 # iniciar mas batallas 
 # mas pokemones 
